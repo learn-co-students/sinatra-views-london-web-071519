@@ -8,5 +8,6 @@ class App < Sinatra::Base
 
 	get "/info" do
 		erb :info
+		#It works
 	end
-end
+ends
